@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="D~3pJa*tu4(X#`5r|@^U" x="213" y="-84"></block><block type="pxt-on-start" id="R$3t2?9Z,yKEno:/boSj" x="0" y="0"></block><block type="device_button_event" id="$wvfvNO@7aAM.md{e8qt" x="256" y="180"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_clear_display" id="c3~MaE*e^$}~{;r_GCLG"></block></statement></block><block type="device_button_event" id="HR|7%n|7wfCS7[|G|byv" x="-17" y="219"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="(/C~A6A00JckZBb2TRx("><field name="LEDS">`
+        . # # # # 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        # # # # .
+        `</field><next><block type="device_pause" id="zhUXuw(xa+hZ@H6?Ox3s"><value name="pause"><shadow type="timePicker" id=")rm$bC4PD}4a*chAqUe:"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="3-_F#yYJK9,2RU$VJ}$)"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_pause" id="A|IS/WV/Ku3nU{LIYmCn"><value name="pause"><shadow type="timePicker" id="kBSC}kxjPOKDRoHc#X5/"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="lF|~_uts(yzaO*62;09T"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # # # # # 
+        # . . . #
+        `</field><next><block type="device_pause" id="hBQ{VhsLi..[C*`}1!`J"><value name="pause"><shadow type="timePicker" id="`_K{|hfwm;-*+Mzvq*+D"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="_#{8@w}89yX:L#Z|=u9~"><field name="LEDS">`
+        . # . # . 
+        . # # . . 
+        . # . . . 
+        . # # . . 
+        . # . # .
+        `</field><next><block type="device_pause" id="qN40U[2A.w$tz,Mk`qG?"><value name="pause"><shadow type="timePicker" id=",Iwq?!+aqjCBI2%*UWxg"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="O_D#vC+jSi7yzkh0uB!="><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="%-d^_Toec?YsE|R6bk3F" x="626" y="221"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="=kdie17nkvAo=uiLY2ci"><value name="text"><shadow type="text" id="%T(%uPl(R}*zi^``zzCC"><field name="TEXT">HI PRESS BUTTON B TO CONTINUE...</field></shadow></value></block></statement></block><block type="device_gesture_event" id="Pc90%yp!tN8|qKer6k3z" x="361" y="594"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="-SYf2(BG,VVQ)QXbcWg("><value name="text"><shadow type="text" id="Da8$fT$O+h}=!KxU`+TB"><field name="TEXT">GO HOME, YA FILTHY FARM ANIMAL</field></shadow></value></block></statement></block></xml>
